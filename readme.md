@@ -158,3 +158,4 @@ public enum Season {
   In values() is a getter for a field $VALUES, which also clones the value before returning it. <br />
   That's where our ObjectClone comes from. In static initialiser (the last method) creates this <br />
   array as a simple object array, and writing it to the $VALUES field. <br />
+
